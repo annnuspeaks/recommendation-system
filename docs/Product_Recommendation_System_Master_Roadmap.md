@@ -6,7 +6,7 @@
 
 ---
 
-## Phase 0 — Project Definition & Scope
+# Phase 0 — Project Definition & Scope
 
 ### 0.1 Problem Definition
 - [x] Define the recommendation problem as personalized Top-K product recommendation.
@@ -105,18 +105,19 @@ No transformed dataset will be created during Phase 1.2. The purpose is to under
 # Phase 2 — Data Engineering & Recommendation Dataset
 
 ## 2.1 Interaction Modeling
-- [ ] Define interaction types.
-- [ ] Define interaction weights.
-- [ ] Construct user-item interaction records.
-- [ ] Decide how ratings/reviews contribute to preference signals.
-- [ ] Define negative/unknown interactions where appropriate.
+- [x] Define interaction types.
+- [x] Define interaction weights.
+- [x] Implicit-feedback approach
+- [x] Construct user-item interaction records.
+- [x] Decide how ratings/reviews contribute to preference signals.
+- [x] Define negative/unknown interactions where appropriate.
 
 ## 2.2 User Dataset
-- [ ] Build user interaction history.
-- [ ] Aggregate user activity.
-- [ ] Create user-level statistics.
-- [ ] Create recency/frequency signals.
-- [ ] Define active/inactive users.
+- [x] Build user interaction history.
+- [x] Aggregate user activity.
+- [x] Create user-level statistics.
+- [x] Create recency/frequency signals.
+- [x] Define active/inactive users.
 
 ## 2.3 Product Dataset
 - [ ] Build canonical product table.
