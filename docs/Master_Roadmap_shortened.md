@@ -162,16 +162,16 @@ No transformed dataset will be created during Phase 1.2. The purpose is to under
 # Phase 4 — Evaluation & Edge Cases
 
 ## 4.1 Recommendation Evaluation
-- [ ] Evaluate Precision@K, Recall@K, NDCG@K, and Hit Rate@K.
-- [ ] Measure catalog/user coverage and diversity.
-- [ ] Analyze popularity bias and long-tail performance.
-- [ ] Compare baseline, content, collaborative, and hybrid models.
+- [x] Evaluate Precision@K, Recall@K, NDCG@K, and Hit Rate@K.
+- [x] Measure catalog/user coverage and diversity.
+- [x] Analyze popularity bias and long-tail performance.
+- [x] Compare baseline, content, collaborative, and hybrid models.
 
 ## 4.2 Cold Start & Error Analysis
-- [ ] Define new-user recommendation strategy.
-- [ ] Define new-product recommendation strategy.
-- [ ] Analyze sparse-user and sparse-product failures.
-- [ ] Document model limitations and final findings.
+- [x] Define new-user recommendation strategy.
+- [x] Define new-product recommendation strategy.
+- [x] Analyze sparse-user and sparse-product failures.
+- [x] Document model limitations and final findings.
 
 ---
 
