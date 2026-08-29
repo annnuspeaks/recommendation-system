@@ -134,15 +134,15 @@ No transformed dataset will be created during Phase 1.2. The purpose is to under
 # Phase 3 — Recommendation Modeling
 
 ## 3.1 Baselines
-- [ ] Build popularity baseline.
-- [ ] Build simple similar-item baseline.
-- [ ] Evaluate baseline Top-K quality.
+- [x] Build popularity baseline.
+- [x] Build simple similar-item baseline.
+- [x] Evaluate baseline Top-K quality.
 
 ## 3.2 Content-Based Recommendation
-- [ ] Build product representation from available metadata/features.
-- [ ] Build similarity search and Top-K recommendations.
-- [ ] Evaluate content-based recommendations.
-- [ ] Support new products where metadata is available.
+- [x] Build product representation from available metadata/features.
+- [x] Build similarity search and Top-K recommendations.
+- [x] Evaluate content-based recommendations.
+- [x] Support new products where metadata is available.
 
 ## 3.3 Collaborative Filtering
 - [ ] Build sparse user-item interaction matrix.
