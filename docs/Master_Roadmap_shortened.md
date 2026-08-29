@@ -178,9 +178,9 @@ No transformed dataset will be created during Phase 1.2. The purpose is to under
 # Phase 5 — Final Model & Serving
 
 ## 5.1 Final Training
-- [ ] Freeze the final feature/preprocessing pipeline.
-- [ ] Train and save the final recommendation model/artifacts.
-- [ ] Save required encoders, embeddings, indexes, and configuration.
+- [x] Freeze the final feature/preprocessing pipeline.
+- [x] Train and save the final recommendation model/artifacts.
+- [x] Save required encoders, embeddings, indexes, and configuration.
 
 ## 5.2 Recommendation API
 - [ ] Implement personalized Top-K endpoint.
