@@ -145,17 +145,17 @@ No transformed dataset will be created during Phase 1.2. The purpose is to under
 - [x] Support new products where metadata is available.
 
 ## 3.3 Collaborative Filtering
-- [ ] Build sparse user-item interaction matrix.
-- [ ] Implement collaborative filtering / matrix-factorization baseline.
-- [ ] Generate Top-K personalized recommendations.
-- [ ] Compare collaborative performance with baselines.
+- [x] Build sparse user-item interaction matrix.
+- [x] Implement collaborative filtering / matrix-factorization baseline.
+- [x] Generate Top-K personalized recommendations.
+- [x] Compare collaborative performance with baselines.
 
 ## 3.4 Hybrid Recommendation Engine
-- [ ] Combine collaborative, content, popularity, and recency signals.
-- [ ] Build candidate generation.
-- [ ] Build ranking/scoring layer.
-- [ ] Add basic diversity and repetition controls.
-- [ ] Select the strongest practical hybrid approach.
+- [x] Combine collaborative, content, popularity, and recency signals.
+- [x] Build candidate generation.
+- [x] Build ranking/scoring layer.
+- [x] Add basic diversity and repetition controls.
+- [x] Select the strongest practical hybrid approach.
 
 ---
 
