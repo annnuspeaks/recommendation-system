@@ -183,10 +183,10 @@ No transformed dataset will be created during Phase 1.2. The purpose is to under
 - [x] Save required encoders, embeddings, indexes, and configuration.
 
 ## 5.2 Recommendation API
-- [ ] Implement personalized Top-K endpoint.
-- [ ] Implement similar-product endpoint.
-- [ ] Implement cold-start/fallback behavior.
-- [ ] Add validation, error handling, and latency measurement.
+- [x] Implement personalized Top-K endpoint.
+- [x] Implement similar-product endpoint.
+- [x] Implement cold-start/fallback behavior.
+- [x] Add validation, error handling, and latency measurement.
 
 ---
 
